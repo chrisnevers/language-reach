@@ -1,0 +1,14 @@
+{
+  "name": "language-reach",
+  "version": "0.0.0",
+  "description": "Language support for Reach",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/chrisnevers/language-reach",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
